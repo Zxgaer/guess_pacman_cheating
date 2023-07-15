@@ -1,0 +1,2 @@
+# guess_pacman_cheating
+Pacman猜字母游戏作弊器
