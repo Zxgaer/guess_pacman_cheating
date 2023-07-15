@@ -6,4 +6,4 @@ CyuuZ的项目，用于BotMarisa的适配
 ## 系统要求
 - Windows
 ## 为什么变量全是cyuuz_aishiteru_*
-因为[CyuuZ]([https://github.com/zxgae](https://github.com/cyuuz-chan)https://github.com/cyuuz-chan)可爱捏
+因为[CyuuZ](https://github.com/cyuuz-chan)很可爱
