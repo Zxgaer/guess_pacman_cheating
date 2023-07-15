@@ -1,6 +1,6 @@
 # Pacman猜字母游戏作弊器
 ## 这是什么
-CyuuZ的项目，用于BotMarisa的适配
+CyuuZ的项目，用于BotMarisa的适配  
 顾名思义，这个玩意儿可以在玩Pacman猜字母游戏的时候作弊（  
 针对[mail_set](https://github.com/mailset)（直球）
 ## 系统要求
